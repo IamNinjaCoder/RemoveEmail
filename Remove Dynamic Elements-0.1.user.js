@@ -22,7 +22,7 @@
         // Adjust these checks based on the specific elements you want to target
         return element.style.opacity === "0.7" &&
                element.style.position === "absolute" &&
-               (element.innerHTML.includes('+918302766230') || element.innerHTML.includes('learn.codehelp.in'));
+               (element.innerHTML.includes('YourNumber') || element.innerHTML.includes('learn.codehelp.in'));
     }
 
     // Observer for detecting node insertions
